@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Router-Core",
+        "pais": "Chile",
+        "tipo_dispositivo": "Router"
+    },
+    {
+        "nombre": "Switch-Distribucion",
+        "pais": "Chile",
+        "tipo_dispositivo": "Switch"
+    },
+    {
+        "nombre": "Firewall-Perimetral",
+        "pais": "Chile",
+        "tipo_dispositivo": "Firewall"
+    }
+]
